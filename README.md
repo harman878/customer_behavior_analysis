@@ -61,6 +61,7 @@ The analysis and findings were documented in a detailed PDF report. A presentati
 ## Dashboard
 
 The Power BI dashboard provides an interactive view of customer behavior and purchasing patterns, helping users explore important metrics and trends through visualizations and filters.
+
 ![Power BI Dashboard](dashboard.png)
 
 ## Key Results
